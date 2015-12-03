@@ -8,4 +8,7 @@
 
 #### 
 
+## TO PLAY THE LATEST BUILD:
+##### ~ THIS PROJECT IS CURRENTLY STILL IN PROGRESS AND GAME IS INCOMPLETE ~
+
 ### Download the "PLAYTHISGAME" folder and install [VBA Emulator](http://www.emulator-zone.com/doc.php/gba/vboyadvance.HTML) version 18.0 BETA for Windows or the [OpenEmu](http://coolrom.com/emulators/mac/35/OpenEmu.php) for Mac. (Feel free to use any other emulator that plays .gba rom files)
