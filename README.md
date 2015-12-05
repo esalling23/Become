@@ -1,6 +1,6 @@
-# RepresentMe
+# Become
 
-### RepresentMe is a POKeMON FireRed hack that forces the player to stay behind from the POKeMON adventure due to their gender, or lackthereof. 
+### Become is a POKeMON FireRed hack that forces the player to stay behind from the POKeMON adventure due to their gender, or lackthereof. 
 
 #### Within the game, the player starts off just as any player would: by choosing their gender and name. 
 
