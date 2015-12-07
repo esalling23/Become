@@ -8,4 +8,4 @@ release
 end
 
 #org @text
-= Hey! What's your name? /n.../lOkay, but what's your REAL name?
+= I'm a girl!\n Girl trainer go go!

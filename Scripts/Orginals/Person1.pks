@@ -8,4 +8,4 @@ release
 end
 
 #org @text
-= Are you the new kid in town[?]\nYou don[']t look like any new kid I have ever seen[!]
+= I'm a boy!\n Boy trainer go go!
