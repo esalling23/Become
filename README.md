@@ -13,7 +13,7 @@
 #### Perhaps it is more important to consider gender for what *it is*, not what *it is not*. 
 
 ## TO PLAY THE LATEST BUILD:
-##### ~ project in progress ~
+##### ~ project in progress ~ currently no Mac support ~
 
 - Click on the button at the top of the page that says "Download Zip"
 - Unpack the zip file, and open the PLAYTHISGAME folder
