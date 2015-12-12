@@ -15,6 +15,10 @@
 ## TO PLAY THE LATEST BUILD:
 ##### ~ project in progress ~
 
-### Download the "PLAYTHISGAME" folder and double-click on "become" to play! 
+- Click on the button at the top of the page that says "Download Zip"
+- Unpack the zip file, and open the PLAYTHISGAME folder
+- Inside the folder, open both the becomev2 file and the xp_rtp104e file
+- becomev2 will extract a folder, open it and open the Game file with the orange icon
+- You're ready to play!
 
 ### Please answer the [before](https://representingmeblog.wordpress.com/reflections-2/) and [after](https://representingmeblog.wordpress.com/after-the-game/) response questions!
