@@ -1,4 +1,4 @@
-# Become
+# READ THIS >>>
 
 ### Become is a POKeMON FireRed hack that forces the player to stay behind from the POKeMON adventure due to their gender, or lackthereof. 
 
